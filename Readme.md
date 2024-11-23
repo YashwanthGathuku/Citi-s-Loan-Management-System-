@@ -65,7 +65,7 @@ The state diagram models the workflow of a loan's lifecycle, highlighting all po
 - Loan Closed
 
 ### Deliverable
-[Loan Management State Diagram](./Task%201-%20Loan%20State%20Diagram)
+[Loan Management State Diagram](./Task%201-%20Loan%20State%20Diagram/Citi_LMS_state_Diagram.png)
 
 ## Task 2: Write a Feature Proposal
 
@@ -84,7 +84,7 @@ The proposal outlines the benefits of implementing a machine learning system for
 5. **Risks and Challenges**: Addressed potential issues like data quality, model bias, regulatory compliance, and operational risks.
 
 ### Deliverable
-- [Credit Risk Modeling Proposal](./Task2-CreditRiskModelingProposal.md)
+- [Credit Risk Modeling Proposal](./Task%202-%20Write%20a%20Feature%20Proposal/CreditRiskModelingProposal.md)
 
 
 ## Task 3: Build a Stock Monitoring Application
@@ -105,7 +105,7 @@ The application queries the Dow Jones Industrial Average (DJIA) stock price ever
 5. **Test and Debug**: Verified that the application works correctly and handles exceptions.
 
 ### Deliverable
-- [App.java](./Task3-Java/App.java)
+- [App.java](./Task%203-%20Build%20a%20Stock%20Monitoring%20Application/App.java)
 
 
 ## Task 4: Visualize Live Stock Data
@@ -125,7 +125,7 @@ The updated application includes a JavaFX-based live-updating line graph of the 
 4. **Compile and Run**: Rebuilt and ran the application to test the visualization feature.
 
 ### Deliverable
-- [App.java with Visualization](./Task4-Java/App.java)
+- [App.java with Visualization](./Task%204-%20Visualize%20live%20Stock%20Data/App.java)
 
 ## Citi Job Simulation Program
 
