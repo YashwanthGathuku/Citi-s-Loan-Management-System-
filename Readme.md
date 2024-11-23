@@ -65,7 +65,7 @@ The state diagram models the workflow of a loan's lifecycle, highlighting all po
 - Loan Closed
 
 ### Deliverable
-[Loan Management State Diagram](./Task1-LoanManagementStateDiagram.drawio)
+[Loan Management State Diagram](./Task 1- Loan State Diagram)
 
 ## Task 2: Write a Feature Proposal
 
